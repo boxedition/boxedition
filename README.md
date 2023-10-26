@@ -1,6 +1,9 @@
 - 👋 Hi, I’m @boxedition
 - 👀 I’m interested in Web Dev
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently learning Swift, Arduino
+
+Knowledge:
+- React Native
 
 <!---
 boxedition/boxedition is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
