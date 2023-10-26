@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Swift, Arduino
 
 Knowledge:
+- Vue
 - React Native
 
 <!---
